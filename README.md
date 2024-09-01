@@ -15,7 +15,7 @@ cargo install
    ```
   - Run 
   ```
-    cargo run
+    cargo run <recipient_email> <your_message>
   ```
  
 
